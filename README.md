@@ -9,6 +9,7 @@ https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-
 1. 滑动窗口（定长/不定长/多指针）https://leetcode.cn/circle/discuss/0viNMK/
    - 713 (24.4.24)
    - 1358 (4.25)
+   - 2302 (4.26)
 2. 二分算法（二分答案/最小化最大值/最大化最小值/第K小）
 3. 位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）
 4. 单调栈（矩形系列/字典序最小/贡献法）
