@@ -18,6 +18,7 @@ https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-
 2. 二分算法（二分答案/最小化最大值/最大化最小值/第K小）https://leetcode.cn/circle/discuss/SqopEo/
    - 2529 (5.2)
    - 2300 (5.3)
+   - 2389 (5.4)
 4. 位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）
 5. 单调栈（矩形系列/字典序最小/贡献法）
 6. 网格图（DFS/BFS/综合应用）
