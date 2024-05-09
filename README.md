@@ -1,7 +1,7 @@
 # leetcode 学习计划
 ## 刷题
 ### 策略
-按照题单刷题，按照难度分范围选题。
+按照题单刷题，按照难度分范围选题。1期只做2000分以下的题目。
 ### 题单
 总题单：
 https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-xu-ji-he-pythonjavacgo-by-7brw/
@@ -23,6 +23,7 @@ https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-
    - 2080 (5.6)
    - 2856 (5.7)
    - 981、1146 (5.8)
+   - 1818 (5.9)
 4. 位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）
 5. 单调栈（矩形系列/字典序最小/贡献法）
 6. 网格图（DFS/BFS/综合应用）
