@@ -30,6 +30,7 @@ https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-
    - 周赛 (5.12)
    - 1385 (5.13)
    - 2594 (5.14)
+   - 1482 (5.15)
 4. 位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）
 5. 单调栈（矩形系列/字典序最小/贡献法）
 6. 网格图（DFS/BFS/综合应用）
