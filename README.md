@@ -3,10 +3,9 @@
 ### 策略
 按照题单刷题，按照难度分范围选题。1期只做2000分以下的题目。
 ### 题单
-[总题单](https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-xu-ji-he-pythonjavacgo-by-7brw/)
-
-1. [滑动窗口（定长/不定长/多指针）] (https://leetcode.cn/circle/discuss/0viNMK/)
-   【其他已按要求完成】
+[灵神题单](https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-xu-ji-he-pythonjavacgo-by-7brw/)
+#### 进度
+1. [滑动窗口（定长/不定长/多指针）](https://leetcode.cn/circle/discuss/0viNMK/)
    - 713 (24.4.24)
    - 1358 (4.25)
    - 2962 (4.26)
@@ -15,7 +14,7 @@
    - 1949 (4.29)
    - 1248 (4.30)
    - 2563 (5.1)
-3. [二分算法（二分答案/最小化最大值/最大化最小值/第K小）](https://leetcode.cn/circle/discuss/SqopEo/)
+2. [二分算法（二分答案/最小化最大值/最大化最小值/第K小）](https://leetcode.cn/circle/discuss/SqopEo/)
    - 2529 (5.2)
    - 2300 (5.3)
    - 2389 (5.4)
