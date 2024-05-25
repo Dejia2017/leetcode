@@ -3,7 +3,7 @@
 ### 策略
 按照题单刷题，按照难度分范围选题。1期只做2000分以下的题目。
 ### 题单
-[灵神题单](https://leetcode.cn/problems/most-frequent-ids/solutions/2704858/ha-xi-biao-you-xu-ji-he-pythonjavacgo-by-7brw/)
+[灵神题单](https://leetcode.cn/circle/discuss/SqopEo/)
 #### 进度
 1. [滑动窗口（定长/不定长/多指针）](https://leetcode.cn/circle/discuss/0viNMK/)
    - 713 (24.4.24)
@@ -39,11 +39,12 @@
 6. 网格图（DFS/BFS/综合应用）
 7. 动态规划（入门/背包/状态机/划分/区间/状压/数位/数据结构优化/树形/博弈/概率期望）
 8. 图论算法（DFS/BFS/拓扑排序/最短路/最小生成树/二分图/基环树/欧拉路径）
-9. 前缀和
+9. 前缀和 https://leetcode.cn/circle/discuss/mOr1u6/
    - 2438（5.21）
    - 2055（5.22）
    - 1744 (5.23)
    - 304 (5.24)
+   - 1314 (5.25)
 ## 上分
 ### 策略
 打周赛, 周日当天通过灵神直播或视频复盘。通过补充题单有计划补题。
