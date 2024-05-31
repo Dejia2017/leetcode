@@ -34,11 +34,11 @@
    - 1642 (5.18)
    - 周赛 (5.19)
    - 2861 (5.20)
-4. 位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）
+4. [位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）](https://leetcode.cn/circle/discuss/dHn9Vk/)
 5. [单调栈（矩形系列/字典序最小/贡献法）](https://leetcode.cn/circle/discuss/9oZFK9/)
    - 1212 （5.28）
    - 1019 (5.28)
-6. 网格图[DFS/BFS/综合应用](https://leetcode.cn/circle/discuss/YiXPXW/)
+6. [网格图(DFS/BFS/综合应用)](https://leetcode.cn/circle/discuss/YiXPXW/)
    - 水域大小 (5.29)
    - 网格图中鱼的最大数目 (2658)
 7. 动态规划（入门/背包/状态机/划分/区间/状压/数位/数据结构优化/树形/博弈/概率期望）
