@@ -35,6 +35,7 @@
    - 周赛 (5.19)
    - 2861 (5.20)
 4. [位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）](https://leetcode.cn/circle/discuss/dHn9Vk/)
+   - 2596 (5.31)
 5. [单调栈（矩形系列/字典序最小/贡献法）](https://leetcode.cn/circle/discuss/9oZFK9/)
    - 1212 （5.28）
    - 1019 (5.28)
